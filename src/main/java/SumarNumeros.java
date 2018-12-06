@@ -9,8 +9,8 @@ public class SumarNumeros {
 	}
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+		// proyecto Wendy
+		//
 		
 		SumarNumeros calcular =new  SumarNumeros();
 		
