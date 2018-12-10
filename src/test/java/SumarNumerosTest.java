@@ -13,7 +13,7 @@ public class SumarNumerosTest {
 	 	
 	 	int calcula=sumaNum.sumaNumero(numeroA, numeroB);
 	 	
-	 	assertEquals(10, calcula);
+	 	assertEquals(11, calcula);
 	 	
 	}
 
