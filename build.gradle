@@ -26,6 +26,17 @@ dependencies {
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
+   compile 'org.slf4j:slf4j-api:1.7.12'
+   compile 'org.slf4j:jcl-over-slf4j:1.7.12'
+}
+
+version='1.0'
+
+jar {
+    manifest {
+        attributes 'Implementation-Title': 'ProeyctoWendy',
+                'Implementation-Version': version
+    }
 }
 
 	
